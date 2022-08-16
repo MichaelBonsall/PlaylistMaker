@@ -1,8 +1,8 @@
 # PlaylistMaker
-Music playlist maker and player
+Music playlist maker and player using .wav format.
 
 ## How to add songs
-To create a new song object, add these three lines to the main method. 
+To create a new song object, place the wav in the same folder as everything else, and then add these three lines to the main method. 
 
 File fileName = new File("YOURMUSICHERE.wav");
 
